@@ -2,7 +2,13 @@
 	"name": "imightthrow",
 	"displayName": "imightthrow",
 	"description": "Shows a visual indicator when a  function has the `throw` keyword inside of it. This extension cannot determine whether a function might throw any error, it'll only tell you whether a function might throw a **manual** error.",
-	"version": "0.0.1",
+	"version": "1.0.0",
+	"publisher": "ChaseBrock",
+	"icon": "src/assets/icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sinzek/imightthrow.git"
+	},
 	"engines": {
 		"vscode": "^1.105.0"
 	},
