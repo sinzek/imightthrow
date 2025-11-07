@@ -1,6 +1,8 @@
 # imightthrow README
 
-imightthrow is a VSCode extension for TypeScript/JavaScript that shows a configurable decorator next to functions that might throw-- or more specifically, functions that contain the 'throw' keyword.
+imightthrow is a VSCode extension for TypeScript/JavaScript that shows a configurable decorator next to functions that might throw-- or more specifically, functions that contain the `throw` keyword. All this does is fix a really specific problem I had.
+
+Link: https://marketplace.visualstudio.com/items?itemName=ChaseBrock.imightthrow
 
 ![Example showcase](https://i.postimg.cc/CxQfdN7F/SCR-20251107-bhni.png "Example showcase")
 
