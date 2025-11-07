@@ -36,17 +36,17 @@
 				"imightthrow.highlightColor": {
 					"type": "string",
 					"default": "#ff8800",
-					"description": "Color of the exclamation mark for functions that might throw."
+					"description": "Color of the decoration for functions that might throw."
 				},
 				"imightthrow.showOnCalls": {
 					"type": "boolean",
 					"default": true,
-					"description": "Whether to show exclamation marks on function calls"
+					"description": "Whether to show decoration on function calls"
 				},
 				"imightthrow.showOnDeclarations": {
 					"type": "boolean",
 					"default": false,
-					"description": "Whether to show exclamation marks on function declarations"
+					"description": "Whether to show decoration on function declarations"
 				}
 			}
 		}
